@@ -1,3 +1,5 @@
+//Eduardo Fonseca Lima 0050014914
+
 public class Mamifero extends Animal {
  
 		public String corPelo;
